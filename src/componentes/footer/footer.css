@@ -1,0 +1,45 @@
+
+footer{
+    margin: 2%;
+}
+.colum{
+    margin: 3%;
+    padding: 2%;
+}
+
+li i {
+    margin: 14px;
+    font-size: 25px;
+  }
+
+  ul{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .containerFooter{ 
+    color: white;
+    padding: 30px;
+  
+    
+  
+  }
+  
+  li a {
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+  }   
+
+  @media screen and (max-width: 1200px){
+    ul{
+        display: block;
+        
+      }
+      .containerFooter{
+        display: flex;
+        justify-content: center;
+      }
+    
+  }

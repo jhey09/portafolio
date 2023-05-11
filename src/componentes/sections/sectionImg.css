@@ -1,0 +1,20 @@
+
+.containerImg{
+    display: flex;
+    justify-content: center;
+
+}
+
+.imgtext{
+    display: flex;
+    align-items: center;
+}
+
+
+.imgMe{
+    border-radius: 200px;
+    width: 500px;
+    height: 500px;
+    margin: 2%;
+    
+}
