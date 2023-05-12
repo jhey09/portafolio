@@ -1,6 +1,8 @@
 
 footer{
-    margin: 2%;
+    margin-top: 2%;
+    background-color: var(--bg-color);
+    width: 100%;
 }
 .colum{
     margin: 3%;
@@ -28,7 +30,7 @@ li i {
   li a {
     font-size: 18px;
     text-decoration: none;
-    color: white;
+    color: rgba(199, 194, 194, 0.575);
     cursor: pointer;
   }   
 

@@ -6,6 +6,9 @@ const SectionImg = () => {
     
       <div className="containerImg">
       <div className="imgtext">
+        <div className="styleParrafo">
+        <p>hola, Yo soy</p>
+        </div>
       <h1>jheyson martinez</h1>
       </div>
         <div className="img">
