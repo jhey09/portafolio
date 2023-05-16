@@ -9,7 +9,7 @@ const SectionImg = () => {
         <div className="styleParrafo">
         <p>hola, Yo soy</p>
         </div>
-      <h1>jheyson martinez</h1>
+      <h1 className="name">jheyson martinez</h1>
       </div>
         <div className="img">
         <picture>

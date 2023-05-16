@@ -2,10 +2,11 @@
 import './App.css'
 import Header from './componentes/header/header'
 import Footer from './componentes/footer/Footer'
-import Section from './componentes/sections/Section'
+import Section from './componentes/sections/SectionMe'
 import SectionImg from './componentes/sections/SectionImg'
 import SectionSkill from './componentes/sections/sectionSkill'
-
+import SectionProject from './componentes/sections/sectionProject'
+SectionProject
 function App() {
   
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <SectionImg/>
       <Section/>
+      <SectionProject/>
       <SectionSkill/>
       <Footer/>
     </>
