@@ -83,7 +83,7 @@ button {
   padding: 0;
   color: #333;
 }
-.containerProject .cardProject .face.back .content button {
+.containerProject .cardProject .face.back .content button a {
   color: #fff;
   border: 1px solid #fff;
   padding: 10px;

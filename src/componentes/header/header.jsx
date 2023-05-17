@@ -23,6 +23,7 @@ const Header = () => {
                    <a href=""><li >Sobre mí</li></a>
                     <a href=""><li>Proyectos</li></a>
                     <a href=""><li >Contacto</li></a>
+                    <a href="/comments"><li>Comentarios</li></a>
                 </ul>
             </div>
         </nav>

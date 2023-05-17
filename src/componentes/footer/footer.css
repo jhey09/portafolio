@@ -3,6 +3,7 @@ footer{
     margin-top: 2%;
     background-color: var(--bg-color);
     width: 100%;
+    border: none;
 }
 .colum{
     margin: 3%;

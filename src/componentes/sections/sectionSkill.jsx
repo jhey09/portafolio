@@ -112,7 +112,7 @@ const SectionSkill = () => { return(
 </div>
   
   <div className="container libreria_frame">
-  <Card.Title className='title textCard'>LIBRERIAS Y FRAMEKORS:</Card.Title>
+  <Card.Title className='title textCard'> FRAMEKORS:</Card.Title>
   <Card className='Card' style={{ width: '10rem' }}>
       <Card.Img variant="top" src="https://st4.depositphotos.com/21557188/23288/v/600/depositphotos_232881476-stock-illustration-scientific-atom-symbol-simple-icon.jpg" className='Imgskill' />
       <Card.Body>
