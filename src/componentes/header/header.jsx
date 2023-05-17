@@ -19,7 +19,7 @@ const Header = () => {
                 <span className="line line3"></span>
             </div>
             <div className="header__info">
-                <ul className="flex flex-column xl:flex-row list-none">
+                <ul className="">
                    <a href=""><li >Sobre mí</li></a>
                     <a href=""><li>Proyectos</li></a>
                     <a href=""><li >Contacto</li></a>
