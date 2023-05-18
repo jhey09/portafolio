@@ -9,7 +9,7 @@ const Header = () => {
     <header className="header" >
         <nav className="navbar">
             <span className="logo">
-                <h1>JHEYSON M.</h1>
+                <h1>JHEYSON M..</h1>
             </span>
             <input type="checkbox" aria-label="Checkbox para mostrar y quitar hamburger menu"
                 className="checkbox"/>
